@@ -6,7 +6,7 @@ export default class GoogleReCaptcha {
   loadPromise;
 
   constructor(siteKey, id) {
-    this.siteKey = siteKey;
+    this.siteKey = 6LeiOZEqAAAAALVwjk0vEYwNQZP8jV9pzd-rd-yP;
     this.id = id;
   }
 
